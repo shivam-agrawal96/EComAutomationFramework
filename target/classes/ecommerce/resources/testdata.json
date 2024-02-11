@@ -1,0 +1,20 @@
+[
+   {	
+    "email" : "shivam.agrawal@gmail.com",
+	"password" : "Imsa@2001",
+	"product" : "ADIDAS ORIGINAL",
+	"ThankyouMessage" : "THANKYOU FOR THE ORDER.",
+	"URL" : "https://rahulshettyacademy.com/client",
+	"Country" : "India"
+	}
+	,
+	
+   {
+    "email" : "shivam.agrawal@gmail.com",
+	"password" : "Imsa@2001",
+	"product" : "ZARA COAT 3",
+	"ThankyouMessage" : "THANKYOU FOR THE ORDER.",
+	"URL" : "https://rahulshettyacademy.com/client",
+	"Country" : "India"
+	}
+]

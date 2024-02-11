@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-10T23:56:57 IST" name="Suite" finished-at="2024-02-10T23:57:02 IST" duration-ms="4861">
+    <groups>
+      <group name="errorValidations">
+        <method signature="ErrorValidationsTest.loginValidation()[pri:0, instance:ecommerce.tests.ErrorValidationsTest@6caf0677]" name="loginValidation" class="ecommerce.tests.ErrorValidationsTest"/>
+      </group> <!-- errorValidations -->
+    </groups>
+    <test started-at="2024-02-10T23:56:57 IST" name="SubmitOrder" finished-at="2024-02-10T23:56:57 IST" duration-ms="12">
+    </test> <!-- SubmitOrder -->
+    <test started-at="2024-02-10T23:56:57 IST" name="LoginValidation" finished-at="2024-02-10T23:57:02 IST" duration-ms="4808">
+      <class name="ecommerce.tests.ErrorValidationsTest">
+        <test-method signature="loginValidation()[pri:0, instance:ecommerce.tests.ErrorValidationsTest@6caf0677]" started-at="2024-02-10T23:56:57 IST" name="loginValidation" finished-at="2024-02-10T23:57:02 IST" duration-ms="4627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+        <test-method is-config="true" signature="quitter()[pri:0, instance:ecommerce.tests.ErrorValidationsTest@6caf0677]" started-at="2024-02-10T23:57:02 IST" name="quitter" finished-at="2024-02-10T23:57:02 IST" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitter -->
+      </class> <!-- ecommerce.tests.ErrorValidationsTest -->
+    </test> <!-- LoginValidation -->
+  </suite> <!-- Suite -->
+</testng-results>

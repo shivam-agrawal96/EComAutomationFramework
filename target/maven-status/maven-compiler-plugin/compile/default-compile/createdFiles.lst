@@ -1,0 +1,8 @@
+ecommerce\abstractcomponents\AbstractComponents.class
+ecommerce\pageobjects\ThankYouPage.class
+ecommerce\pageobjects\LandingPage.class
+ecommerce\pageobjects\OrderPage.class
+ecommerce\pageobjects\ChekoutPage.class
+FrameworkPOM\Frameworkdesign\App.class
+ecommerce\pageobjects\ProductSelectionPage.class
+ecommerce\pageobjects\ViewCartPage.class
